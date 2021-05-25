@@ -64,6 +64,10 @@ li {
 	color: #fff;
 }
 
+.headerTitle{
+	font-size: 2.2rem;
+}
+
 .wrapper{
 	width: 100%;
 	min-height: calc(100vh - 50px);
